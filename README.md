@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JPT aka @Modeller-J2022 from Jamaica. I am a Registered Architect and Project Manager and I use to draw comic scripts for our local newspapers and journals.
+- 👋 Hi, I’m JPT aka @Modeller-J2022 aka StoryTella from Jamaica. I am a Registered Architect and Project Manager and I use to draw comic scripts for our local newspapers and journals.
 - 👀 I’m interested in Game Development and cinematography for some games and movies I intend to make...
 - 🌱 I’m currently learning Game Dev from the very start...but I am using Unreal Engine (4-5) (Twinmotion), Blender and Maya and trying to navigate around these exciting platform.
 - 💞️ I’m looking to collaborate on Game Dev with creative persons...especially for the Rigging and Animation aspect...as well as the cinematography/movie aspect of things.
